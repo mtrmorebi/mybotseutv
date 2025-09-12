@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlackBoxConfig>
+    <sfkblkc>kujdb729hHVn</sfkblkc>
+    <FakeId>XYZ-123-uhFkLA-999</FakeId>
+    <EncryptionType>AES-256</EncryptionType>
+    <LastUpdated>null</LastUpdated>
+    <Developer>Anonymous</Developer>
+    <AntiTamper>Enabled</AntiTamper>
+    <VerificationMode>Strict</VerificationMode>
+    <BackupServer>http://github/backup</BackupServer>
+    <Checksum>ABCDEF1234567890</Checksum>
+    <Status>null</Status>
+</BlackBoxConfig>
